@@ -1,4 +1,3 @@
-<img width="1846" height="1018" alt="image" src="https://github.com/user-attachments/assets/853d1615-3f67-4efc-a877-fc03087578ec" /># EC1801-DLC-EXP1
 ### EXPERIMENT 1 
 ### MINIMIZATION AND IMPLEMENTATION OF BOOLEAN FUNCTION
 ## Aim
