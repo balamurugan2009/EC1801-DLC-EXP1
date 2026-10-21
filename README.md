@@ -1,6 +1,6 @@
 ### EXPERIMENT 1 
 ### MINIMIZATION AND IMPLEMENTATION OF BOOLEAN FUNCTION
-## Aim
+## Aim 
 To minimize and implement a Boolean function using logic gates and verify the functionality using Synopsys VCS and DVE.
 ## Software Required
 •	Synopsys VCS
